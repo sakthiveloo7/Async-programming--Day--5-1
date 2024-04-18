@@ -9,7 +9,7 @@ To use the random advice generator, simply open the `index.html` file in a web b
 
 ## Demo
 
-You can see a live demo of the random advice generator [here](https://your-demo-link.com).
+You can see a live demo of the random advice generator [here](https://wwwadvicecom.netlify.app/).
 
 ## How It Works
 
